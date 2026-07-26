@@ -22,7 +22,12 @@ It enables stakeholders to monitor booking trends, revenue performance, vehicle 
 
 ## 📸 Dashboard Screenshots
 
+### 🚀 Home Page
+
+![Overall Report](screenshots/home-page.jpeg)
+
 ### 📊 Overall Report
+
 
 ![Overall Report](screenshots/overall-report.jpeg)
 
@@ -353,19 +358,17 @@ DIVIDE(
 cityride-powerbi-dashboard
 │
 ├── README.md
-├── CityRide-Analysis-Dashboard.pbix
-├── CityRide-Analysis-Dashboard.pdf
-│
-├── dataset/
-│   └── CityRide Dataset.xlsx
-│
+├── cityride project.pbix
+├── cityride pdf.pdf
 └── screenshots/
-    ├── overall-report.png
-    ├── vehicle-report.png
-    ├── revenue-report.png
-    ├── cancellation-report.png
-    ├── ratings-report.png
-    └── summary-report.png
+    ├── home-page.jpeg
+    ├── overall-report.jpeg
+    ├── vehicle-report.jpeg
+    ├── revenue-report.jpeg
+    ├── cancellation-report.jpeg
+    ├── ratings-report.jpeg
+    └── summary-report.jpeg
+
 ```
 
 ---
